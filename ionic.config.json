@@ -1,0 +1,7 @@
+{
+  "name": "bit68task",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
